@@ -18,7 +18,7 @@
 <h2>⚙How to Run</h2>
 <p>To run this program, you need a C compiler such as GCC. Compile the source code using the following command:</p>
 
-<pre><code>gcc depot_air_galon.c -o depot
+<pre><code>gcc gallon-water-depot-management.c -o depot
 </code></pre>
 
 <p>Then run the program with:</p>
